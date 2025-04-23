@@ -1,0 +1,24 @@
+p{
+	font-size: 24px; 
+	background-color: #087cdc; 
+	color: #000001;
+	text-align: center;
+}
+
+#marca{
+	font-size: 30px; 
+	background-color: #00FFFF; 
+	color: #000001;
+	text-align: center;
+}
+
+#baixo{
+	font-size: 20px; 
+	background-color: #2d9f29; 
+	color: #000001;
+	text-align: center;
+}
+
+body{
+	background-color: #FF00FF;
+}
